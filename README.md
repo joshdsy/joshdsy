@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A Devops Engineer from India</h3>
+<h3 align="center">A Devops Engineer</h3>
 
 - 🌱 I’m currently learning **Terraform, anisable**
 
